@@ -51,11 +51,12 @@ Basic Calculator
 5. Exit
 
 Select an operation (1-5): 4
+
 Enter first number: 20
+
 Enter second number: 0
+
 Error: Division by zero is not allowed.
-
-
 
 Prevents division by zero with a conditional check.
 
